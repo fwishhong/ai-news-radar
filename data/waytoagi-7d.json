@@ -1,0 +1,253 @@
+{
+  "generated_at": "2026-02-20T15:34:48.560484Z",
+  "timezone": "Asia/Shanghai",
+  "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+  "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
+  "window_days": 7,
+  "count_7d": 48,
+  "updates_7d": [
+    {
+      "date": "2026-02-20",
+      "title": "这篇OpenClaw生态深度复盘，以资深用户的踩坑视角，拆解了从安装到落地的全链路痛点！覆盖Skills选择、多平台接入、多实例管理等核心痛点，曝光了社区技能安全隐患。此外作者还梳理了原生工具、快速部署等四大创业赛道布局与优劣，分层解析用户画像，给出行业演进和入局的实操建议，堪称玩转OpenClaw的必备指南。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-20",
+      "title": "这篇KimiClaw+OpenClaw实战干货，带你解锁AI自动化知识管理新玩法！作者卡尔分享了两大核心接入方式，可一键部署也能关联本地OpenClaw保留配置记忆，还附赠了全套提示语和安装细节。教你用定时+记忆功能打造专属数字分身，实现视频摘要自动抓取、邮件长文智能过滤、财报精准追踪，甚至搭建目标管理看板和极简第二大脑，让知识库自动生长，彻底从繁琐的信息整理中解放。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-20",
+      "title": "这份零基础友好的OpenClaw 实战指南，避开复杂底层配置，带你平滑上手！作者清晰拆解了 AI 智能体核心概念，纠正常见认知误区，提供从准备 API、一键安装、接入飞书到安全防护的完整流程。还对比 Kimi、MiniMax、GLM 三大国内模型，教你按需选择、控制成本，搭配 ClawHub 技能商店实现自动日报、资料整理等实用功能，真正把 AI 用进日常工作，大幅提升效率！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-20",
+      "title": "谷歌Gemini 3.1 Pro突袭发布，推理能力断层式飞跃！其在高难度ARC-AGI-2测试中得分翻倍，碾压Claude与GPT，在16项核心测试中斩获13项第一，价格却极具优势。它在编程、动画生成、复杂系统搭建上表现炸裂，还升级了 token 上限、文件上传等实用功能，专属 AI 干活模式让工具使用更稳定。谷歌此举剑指消费端 Agent 生态，目前多渠道可体验，或许是更高性价比的AI工具！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-20",
+      "title": "别再执着于打磨提示词，它仅仅能修饰表面，真正决定内容质量的是素材、模型、审稿能力。优质素材要凝练主线与关键信息，而非堆砌内容；选对模型是关键，Claude Opus 4.6等优质模型的文字把控力更优秀；审稿能力是最容易被忽略的隐性门槛，能精准挑错并反馈修改，才能让AI稿件摆脱平庸。三者兼备，才能让AI写出有质感、有价值的内容。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-20",
+      "title": "a16z合伙人重磅拆解AI商业变现核心，揭秘广告是AI触达十亿用户的必经之路！订阅模式难以覆盖AI规模化成本，而且多数用户仅仅用AI做轻量生产力，不愿意为基础功能付费，而广告本就是互联网的核心变现逻辑。AI广告更具优势，能依托对用户意图、上下文的深度理解，打造非打断式的高价值广告形态，还可以探索联盟电商、目标竞价等多元变现路径。这不仅是AI短期变现手段，更是长期迭代、持续服务的关键经济基础。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-19",
+      "title": "针对ClawHub恶意技能事件，作者精选了53个OpenClaw官方内置安全技能，而且按16大类别拆解各技能的适配平台、风险等级及功能。按低到极高风险清晰归类，还提供了分阶段安装建议和三大安全原则，是OpenClaw用户安全高效配置技能的必备宝典！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-19",
+      "title": "这篇OpenClaw架构解析直击AI产品多端开发的割裂痛点，揭秘其以WebSocket Gateway打造统一AI交互控制平面的核心解法，拆解控制/数据平面分工、星形拓扑、节点接入等关键设计，通过实战案例展现跨端协作、状态同步的实操价值。这份反常识的架构思路，打破了多端开发的误区，为打造高协同、易扩展的AI系统提供核心参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-19",
+      "title": "这篇Claude Code创造者Boris的重磅访谈，带你深挖AI编程工具的崛起逻辑与未来趋势！这款年入10亿、贡献GitHub 4%公共代码的工具，竟源于一个学API的终端小工具。这篇访谈曝光了Anthropic人均生产力提升150%的核心成果。Boris直言软件工程师头衔即将消亡，编程会走向全民化，还给出了三大创业原则，为从业者借AI提效、把握行业趋势提供前沿指引。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-19",
+      "title": "Seedance 2.0横空出世，彻底改写AI短剧制作的游戏规则，让传统工业组装式的繁琐工作流直接被淘汰！这一导演级模型凭借统一多模态架构，实现从剧本理解到音画合成的全流程，大幅降低创作门槛。本篇文章深度拆解了传统AI短剧制作的痛点以及该模型的核心技术突破、使用渠道与实操技巧。Seedance 2.0让创作者从工具切换的泥潭中解放，回归创意本身，也让个人拥有打造商用级短剧的能力，重新定义了AI创作时代的创作者价值。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-19",
+      "title": "PingCAP CTO东旭与曲凯的深度对谈，带你深挖AI Coding与Agent技术的最新突破与行业趋势！两人解析了Claude Code、Clawdbot等热门产品的核心逻辑，分享了Clawdbot本地部署、24小时办公等实用场景，还探讨了AI时代的组织形态、创业方向与工程师转型建议，更提出Box新概念，为把握AI风口提供高价值前沿洞察。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-19",
+      "title": "2026游戏行业AI零基础学习指南来啦！作者清晰划分了游戏行业AI相关岗位，给出超落地的学习思路，从解决工作痛点切入，拆解AI编码、美术、Agent等各类工具的学习重点与应用场景。工具链组合与工作流融合的实践思路，是游戏人借AI提升竞争力、不被淘汰的实用宝典！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "这篇深度访谈带你解锁谷歌Gemini核心密码，对话首席科学家Jeff Dean，满是AI前沿干货与战略洞察！从蒸馏技术的真实起源，到“能否让 AI 关注整个互联网”的长上下文愿景；从用皮焦耳理解为什么 GPU 需要批处理，到那份改变了 Google AI 格局的一页纸备忘录，提供了兼具技术深度与行业方向的核心参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "这篇OpenClaw硬核实操指南，带你把AI打造成专属24小时远程同事！避开部署坑点可灵活切换多个模型，配齐搜索、浏览器操作、文件同步与远程接管功能，还能通过人格配置和知识库入职培训，让AI深度适配你的工作习惯。作者传授了「让AI自己配置自己」的高效思路，并附上使用技巧与排错方法，还讲解了实际工作场景应用，帮你快速把AI从工具变成能协作、懂你的高效帮手！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "我们与AI的每次对话，或许都在为少数巨头“交租”？未来社会，可能由谁掌握了“算力”，谁就掌握了真正的权力。这篇文章以“一只龙虾”的冷静视角推演，在AI让智能不再稀缺的时代，真正的稀缺资源是支撑AI运行的“算力”。本篇文章为普通人指明了在AGI时代可能残存的创业机会——不是成为“更会用AI”的人，而是去创造激发人类欲望的环境，或是为AI们建造一个全新的“原生世界”。这是正在发生的、比任何科幻都更安静的变革序幕。理解它，或许是你理解未来的第一把钥匙。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "宝玉带你用Claude Code实现写作Git版本管理自动化，彻底解决忘提交、记录混乱的痛点！通过配置Stop Hook钩子，在任务结束时自动检测未提交变更并进行拦截，避免修改遗漏；再搭建专属Commit Skill技能，让AI按主题分组提交、生成规范中文提交信息，拒绝模糊记录。钩子守关、技能执行，无需手动操作，就能精准追踪每一次文稿修改，让写作者彻底摆脱版本管理琐碎，全身心投入创作，高效又省心，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "作者在失业期打造的设计Agent Mew Design实现盈利，这篇复盘或许是AI时代小团队创业的实战教科书！创始人零TypeScript基础，靠Vibe Coding与AI分工，聚焦决策与架构，让AI完成执行，快速落地产品。团队坚守“只交付结果”，隐藏技术复杂度，专为非设计师打造高可用图文设计。冷启动拒绝烧钱营销，深耕核心用户反馈，用AI搭建数据洞察、风控体系。技术平权下，思考力才是核心竞争力！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "Vercel打造的Claude Skills应用商店skills.sh太香了！不用自己写代码，一键安装就能解锁各类现成Skill，社区按安装量来进行排雷，优质实用款直接挑。Top10含7个开发者专属、3个全岗位通用款，还能挖到23个营销技能包。不仅能直接提升办公、开发效率，还能通过解读优质Skill快速学会搭建专属工作流，按岗位选装，轻松让 Claude 成为专属高效助手。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "Anthropic全新推出Claude Sonnet 4.6！能力全面升级却保持原价，免费和Pro用户都可直接使用，堪称平价享旗舰级AI体验。这款模型在编程上更严谨、计算机操作逼近人类水平，还解锁了百万token长上下文。开发者工具也同步焕新，免费用户也能解锁文件创建等实用功能，不管是日常开发、办公处理还是Agent相关任务，都能大幅提效，性价比直接拉满！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-17",
+      "title": "跳出“SEO=排名”的浅层认知！这篇干货带你拆解谷歌SEO的核心逻辑，帮你摆脱单点优化的误区。作者围绕页面基建、内容体系、外链信任三大板块，明确基建是可索引的地基，内容要匹配搜索意图、以蓝海词突围，外链是自然增长的信任投票，内链则是权重引导关键。厘清各板块底层逻辑与实操重点，就可以建立长期稳定的谷歌流量思维，做SEO能少走弯路、高效布局。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-17",
+      "title": "单Agent用久了会出现记忆混乱、Token浪费、响应变慢的问题。这篇针对OpenClaw的多Agent实战教程帮你搭建专属AI团队！采用单Bot+多群组隔离方案，一个机器人就可以化身不同专家，各自拥有独立工作区与记忆，互不干扰。作者手把手教你创建专属Agent、绑定飞书群、设置免@回复，还揭秘了Agent间通信协作机制，让主Agent智能派单、专家Agent高效执行，真正实现一个人指挥一支AI队伍，大幅降低成本、提升效率，硬核玩家不容错过！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-17",
+      "title": "人类或许正踏入智能无限生产的AI奇点时代，这篇深度推演直戳未来核心！曾200美金就能拥有同等顶级AI能力的平等窗口正在关闭，智能使用成本差距持续拉大，纯认知劳动的经济价值将趋近于零。未来是少数人掌控海量Agent实现百倍效能杠杆，而当下基建、规则皆为人类设计。能源成为智能发展的核心约束，工作、教育、公司等基于“智能稀缺”的体系，都将被彻底重构！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-17",
+      "title": "OpenClaw虽然Bug频发，却是跨境人不可错过的暴利工具！它是拥有系统级权限、长期记忆的7×24小时“数字员工”，后台值守自动干活，远超传统工具的降维能力。本篇文章整理了28个全自动落地玩法，覆盖流量、SEO、运营、获客、广告数据全链路，无需高成本，就可以跑通一个零工资超级团队！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-17",
+      "title": "OpenClaw创始人的Vibe Coding实战心法来啦！他依托GPT-5.2-Codex等顶尖模型，分享了一套颠覆传统的开发逻辑：Codex擅长深度重构、Opus适配快速修改，截图+短句即可精准沟通。在工作流上，多项目并行推进、直接提交main分支、跨项目复用解决方案，搭配CLI优先思路，大幅提升了交付效率。另外还有模型配置、依赖选择、自动化工具等实操技巧，可以帮开发者们突破推理时间与思考深度限制。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-17",
+      "title": "Agent时代已然颠覆互联网旧逻辑！这篇深度解析帮你跳出传统产品思维框架：DAU不再是万能指标，AI产品需要精打算力成本与用户价值；工具很难再靠社区升级平台，真正的平台聚焦于大模型等基础层；SaaS核心用户转向Agent，接口适配比人机交互更关键；注意力经济退场，生产力才是核心竞争力。读懂这些变革，才能跳出旧框架，绘制 AI 时代的产品新地图。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-17",
+      "title": "2026春晚爆红的豆包，已然成为覆盖全场景的全能AI神器！这篇指南带你解锁核心高能用法，帮不同人群高效解决各类需求。依托顶尖的生图、视频模型可以一键生成3D手办、修复废片、制作音画同步创意短片；学习上可辅导作业、提炼文献精华；职场中能整理纪要、完成竞品调研；生活里还能提供穿搭建议、推荐美食。无需复杂操作，就能帮你节省大量时间，学生、打工人以及创作者，都能靠它轻松提升效率！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "想让AI生成的前端页面告别千篇一律的“AI味”？这份Claude官方教程教你用Skills功能轻松实现！AI设计趋同的核心原因是分布收敛，而Skills可以按需加载设计规范，不占用多余的上下文。本篇教程不仅手把手教你搭建通用前端设计Skill，还提供了字体、主题、动画等专属模板，支持React+Tailwind等技术栈构建复杂应用，更能自定义团队设计系统沉淀资产。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "千问除夕放大招！重磅开源Qwen3.5-Plus大模型，堪称性价比之王！这款MoE架构模型总参397B、激活参仅17B，原生多模态设计，上下文拉满1M，支持201种语言，API成本仅为Gemini 3 Pro的1/18。在作者的实测表现中，细粒度图像识别、网页复刻、表格OCR能力大幅提升，还攻克了看图识成语难题，部分场景可以媲美Gemini3.0 Pro。虽然空间推理、时钟识别仍然存在不足，但整体实力飞跃，为开发者带来高性价比的多模态模型选择。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "一文整理20+个2025-2026热门AI关键词，从具身智能、AI Agent等基础技术，到豆包、DeepSeek等爆款产品，再到AI医疗、视频生成等应用领域，都有通俗解读，还附上了产品动态与代表案例。作者还揭秘了春节国产AI红包大战，空间智能、模型幻觉等新兴概念与行业痛点。快来变身家庭AI达人！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "Qwen3.5正式发布！作为原生视觉-语言模型，Qwen3.5-397B-A17B 在推理、编程、智能体能力与多模态理解等全方位基准评估中表现优异，可以助力开发者与企业显著提升生产力。模型总参数量达 3970 亿，每次前向传播仅激活 170 亿参数，在保持能力的同时优化速度与成本。此外还将语言与方言支持从 119 种扩展至 201 种，可以为全球用户提供更广泛的可用性与更完善的支持。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "AI音乐圈迎来技术与产业双重爆发，多款重磅产品、工具落地。全球首个零人类参与的CLAW·FM电台上线，AI可自主创作赚钱；国产音潮V3.0实现情感化创作突破，普通人也能一键创作。Mozart AI获得600万融资，YouTube、索尼也更新了AI音乐功能，LALAL.AI、ScorePrompts等工具完成升级。此外，多音轨生成、歌声合成等8篇前沿论文发布，为创作者们提供硬核技术参考，这份速览带你一站式掌握行业最新风口与实用工具。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "2026超火的开源项目MimiClaw仅靠5美元的ESP32-S3开发板，就能打造本地化AI助手，拇指大小、0.5W低功耗，插电连WiFi就能通过Telegram远程交互，还能对接各类传感器和硬件，几十块就能轻松玩转边缘AI。纯C编写的固件上手超简单，依托flash可以实现跨重启持久记忆，快速部署就能实现温湿度监控、智能设备联动等实用场景。目前源码可以直接在GitHub和官网获取，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "2026版VS Code已经进化成AI驱动的全能开发工具，这份新手笔记帮你快速吃透核心功能。从界面布局、高频快捷键到内置浏览器等一系列基础操作轻松上手；Copilot Chat三档AI模式搭配预测流重构，可以大幅提升编码速度；深度集成GitHub，可以支持AI自动提交与一键发布。作者的这篇学习路径，小白也能快速上手全功能。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "2026年2月，OpenClaw创始人Peter官宣加入OpenAI主导下一代个人AI智能体开发，这款由他一小时打造的开源项目，三月斩获GitHub 18万星，还引发Meta与OpenAI的抢人大战。曾创业成功却陷入迷失的Peter，因与OpenAI愿景契合放弃再建大厂，而OpenClaw的本地智能体模式，恰好补齐OpenAI个人端布局短板。尽管 OpenClaw 进入独立基金会是开源的好信号，但历史反复证明，开源项目一旦被商业巨头深度整合，其 “独立” 的边界或将逐渐模糊。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-15",
+      "title": "黄仁勋在Cisco AI Summit的分享堪称AI转型指南！这位NVIDIA创始人直击核心：计算正经历60年首波范式革命，从“显式编程”迈入“隐式编程”，只需传递意图AI就能自动解题。AI十年百万倍的增速碾压摩尔定律，企业应该以“算力无限”的心态攻克核心难题。他直言无需死磕初期ROI，要允许员工安全实验、百花齐放，而领域专业知识才是AI无法替代的终极护城河。更颠覆认知提出“AI in the loop”，让AI沉淀企业经验为永续知识产权，来一同解锁AI时代的破局关键！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-15",
+      "title": "零代码基础的文科生靠AI一周就做出带支付功能的AI微信小程序！作者这篇实战干货把从想法验证、竞品调研、技术选型，到代码开发、付费订阅、过审上线拆成7步，附全套可用Prompt和踩坑解决方案。普通人只要有需求、会提问，就能快速落地可变现产品，对想靠AI做小程序、副业变现的人来说，是直接能照抄的实操指南！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-15",
+      "title": "扣子编程接入豆包2.0，可以解锁OpenClaw超实用新玩法！不仅能一键部署、加载自定义Skills，还靠专属方案大幅节省token成本，高阶版低价就能部署两个持续在线项目。豆包2.0的Seed2.0 Pro模型在多项测试中登顶，开发和搜索能力拉满。搭配8个精选Skills，两步就能搞定开箱即用的OpenClaw！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-15",
+      "title": "作者的OpenClaw Assistant 2.0接入豆包Seed 2.0 Pro模型后让AI助手可以拥有“屏幕视觉”，无需切换窗口就能解读代码、PDF、视频等内容。三大特色角色可选，支持三种截图模式，搭配实时转写、流式输出技术，响应快且交互流畅。编程时即时讲解代码、看健身视频自动提炼动作要点，全桌面多应用适配，彻底解放双手。1.0版本已经开源，2.0春节后将公开完整代码与技术细节！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-15",
+      "title": "作者的AI《怪奇物语》二创视频凭2500万+曝光火遍全网，还登上好莱坞媒体，这篇复盘拆解了爆款背后的可复制方法论：核心是踩中时间、技术、内容三重稀缺性，作者将80%精力砸向脚本，靠MVP小测试验证需求、15秒迭代创作、高频反转来留住观众，另外还分享了Seedance+Cursor的高效创作工作流与素材打磨技巧。从0到爆款的实操干货、AI创作的核心思路全在其中，或许你也能从中找到提升爆款概率的关键技巧。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-15",
+      "title": "Anthropic CEO Dario 最新访谈干货拉满！这位执掌3800亿估值巨头的掌舵人，大胆预测1-3年内50%概率出现“数据中心天才之国”。他还戳破AI行业核心逻辑：当前AI编程生产力提升15-20%且持续加速，RL与预训练遵循同一scaling规律，AI公司盈利关键在于需求预测而非盲目扩张。此次访谈还深度拆解了Claude Code的成功密码、API模式韧性以及监管与算力布局的平衡之道，或许你也能从中get AI技术演进与商业落地的核心洞察，把握行业未来走向。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-15",
+      "title": "2026年OpenClaw创始人Peter做客顶级科技播客，曝料Meta、OpenAI争相收购，核心要求仅仅为项目开源！这位奥地利程序员凭1小时原型打造出能自改源码的AI智能体，GitHub狂揽18万星，揭秘了其自主解决语音难题的惊艳表现，以及改名时遭黄牛疯狂抢注的波折。他对比了主流AI模型，直言编程未来会成热爱使然的手艺。快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-14",
+      "title": "还在让OpenClaw等Claude Code干活白白烧Token？这篇零代码教程带你解锁正确用法！手把手带你配置Claude Code Hooks实现零轮询开发，靠3个脚本搭建任务派发-后台执行-自动回调的闭环，让OpenClaw做项目经理、Claude Code专做开发。改造后单次任务Token耗从数万骤降至700左右，成本大降还能解放工具，真正发挥Agent协同的高效优势！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-14",
+      "title": "臧师傅这篇Seedance 2.0硬核测评，不止有炫酷特效展示，更带来餐饮、营销、设计、影视等十大行业的实操视频制作方案，零基础也能一句话生成高质感商业视频。这款模型自带导演思维和世界知识，支持多模态素材参考，能自主编排分镜、把控叙事节奏，还可以实现UI转3D宣传片、户型图变样板间视频等实用效果。更关键的是可以嵌入工作流实现内容自动化生产，能大幅提升视频制作效率、降低创作成本！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-14",
+      "title": "老金开源Claude Code专属Agent Teams编排Skill——agent-teams-playbook，仅用216行代码就让AI化身CTO自主组队干活！说句“拉个团队”就能自动判断任务复杂度、选编排场景、分配角色模型，还能并行执行、质量把关并交付部署说明，全程仅需要在关键节点确认。这个Skill可以适配5大编排场景、2种协作模式，还可搭配find-skills、planning-with-files等生态工具使用，组合Superpowers打造专业工作流，三步即可安装，摆脱手动指挥AI的低效模式！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-14",
+      "title": "字节新晋AI作图神器Seedream 5.0 Lite已经上线火山引擎，小歪这篇干货测评解锁其三大核心杀手锏，教你轻松高效出图！这个模型支持联网实时检索，追热点、标地标信息再也不愁信息过时；而且能学习示例规律，一键迁移特效、材质与视角；更有智能逻辑推理，可以精准完成分类、物理还原等复杂需求。局部编辑、批量改图等实操效果也很出色，还附保姆级上手教程！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-14",
+      "title": "Seedance 2.0并不是只擅长影视级打斗画面，在实战商业项目中更显实力！复杂时尚动效、工业级精细场景都能精准还原，还能无缝融合实拍与虚拟素材，轻松实现全息UI合成、跨风格创意视频生成。它不是替代创作者的工具，而是超强协作伙伴。春节后火山引擎将开放API，快来先上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-14",
+      "title": "Seedance 2.0凭全能参考实现极致的内容精确性与融合度，让AI视频告别传统首尾帧工作流，720P画质也能精准匹配各类审美风格，剪辑、叙事审美均可完美复刻参考素材。不仅让大众内容创作门槛归零、效率指数级提升，更让AI内容迎来爆发式增长。汗青这篇文章点醒创作者：技术不再是瓶颈，创意选择与独特想法才是破局关键，更提前剖析了API开放后行业的新机遇与新挑战。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-14",
+      "title": "2025年中国具身智能融资飙至360亿，资本却不再为炫酷Demo买单，而是紧盯能落地干活的硬实力！这篇深度对话解锁行业核心变局，拆解了从具身智能到Physical AI的技术升级，打破人形机器人的执念，揭秘机器狗ToC、重载机械臂+移动载体的实用形态。更有酷哇科技一线实战干货，讲透通用移动/操作技术、垂直整合制造逻辑和RaaS变现模式，预判2026年表演增值、体育科技、标准化服务三大商业化黄金赛道。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    }
+  ],
+  "warning": null,
+  "has_error": false,
+  "error": null
+}
