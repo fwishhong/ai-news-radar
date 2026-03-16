@@ -45,6 +45,29 @@ jobs:
             python scripts/update_news.py --output-dir data --window-hours 24
           fi
 
+      - name: Trim archive.json if too large
+        run: |
+          # If archive.json > 80MB, keep only last 7 days of entries
+          MAX_SIZE=80000000  # 80MB
+          if [ -f data/archive.json ]; then
+            SIZE=$(stat -c%s data/archive.json 2>/dev/null || stat -f%z data/archive.json)
+            if [ "$SIZE" -gt "$MAX_SIZE" ]; then
+              echo "archive.json is ${SIZE} bytes, trimming to last 7 days..."
+              python3 -c "
+import json
+with open('data/archive.json', 'r') as f:
+    data = json.load(f)
+# Keep only entries from last 7 days (assume sorted by date, keep last ~1000 entries)
+if isinstance(data, list):
+    trimmed = data[-1000:]
+    with open('data/archive.json', 'w') as f:
+        json.dump(trimmed, f, ensure_ascii=False)
+              echo "Trimmed to $(stat -c%s data/archive.json) bytes"
+            else
+              echo "archive.json is ${SIZE} bytes, within limit"
+            fi
+          fi
+
       - name: Commit and push changes
         run: |
           if git diff --quiet; then
